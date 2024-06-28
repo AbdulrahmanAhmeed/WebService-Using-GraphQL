@@ -43,7 +43,7 @@ GraphQL Web Services is web services that use ChilliCream GraphQL platform for d
    1. Start the Northwind.GraphQL.Service project without debugging "Click right on Northwind.GraphQL.Service project Debug -> Start without Debuging"
    2. Navigate to `https://localhost:5121/graphql` to open BananaCakePop user interface
    3. Click the Schema Definition tab, and note the query and type definitions for Category and Product
-   4. Start the Northwind.WebApi.Client.Mvc project without debugging so that we can send messages to the RabbitMQ queue
+   4. Back to Operations tab to run your queries
    5. Test one if the following queries to make sure that this web services working well
 
       ```
