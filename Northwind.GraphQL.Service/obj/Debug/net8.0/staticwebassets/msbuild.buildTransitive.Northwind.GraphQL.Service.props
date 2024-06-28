@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Northwind.GraphQL.Service.props" />
+</Project>

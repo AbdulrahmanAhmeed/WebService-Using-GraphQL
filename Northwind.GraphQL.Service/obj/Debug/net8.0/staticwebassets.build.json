@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4h2K4tcnoxuaL5c03gqpO38ob/Xbu6O6ohONvzWC088=",
+  "Source": "Northwind.GraphQL.Service",
+  "BasePath": "_content/Northwind.GraphQL.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

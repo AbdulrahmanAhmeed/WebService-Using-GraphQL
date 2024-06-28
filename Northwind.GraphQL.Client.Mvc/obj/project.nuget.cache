@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iov2glfZPuiScWDkVEohgP5cuhIWxyc08g89thzIRZTK0wQ+RyXN5c+AA3i4L0UkbdrIWgmkJ0WLiTeXBypiYQ==",
+  "success": false,
+  "projectFilePath": "E:\\.net\\WebService-Using-GraphQL\\Northwind.GraphQL.Client.Mvc\\Northwind.GraphQL.Client.Mvc.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
